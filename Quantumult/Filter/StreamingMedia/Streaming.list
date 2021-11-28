@@ -122,14 +122,6 @@ DOMAIN-SUFFIX,discoveryplus.co.uk,Streaming
 DOMAIN-SUFFIX,discoveryplus.com,Streaming
 DOMAIN-SUFFIX,discoveryplus.in,Streaming
 DOMAIN-SUFFIX,dnitv.com,Streaming
-# > Disney+
-USER-AGENT,Disney+*,Disney+
-DOMAIN-SUFFIX,bamgrid.com,Disney+
-DOMAIN-SUFFIX,disneyplus.com,Disney+
-DOMAIN-SUFFIX,disney-plus.net,Disney+
-DOMAIN-SUFFIX,disneystreaming.com,Disney+
-DOMAIN-SUFFIX,dssott.com,Disney+
-DOMAIN,cdn.registerdisney.go.com,Disney+
 # > DMM
 DOMAIN-SUFFIX,dmm.co.jp,Streaming
 DOMAIN-SUFFIX,dmm.com,Streaming
