@@ -1,19 +1,19 @@
 # > PayPal
-USER-AGENT,PayPal*,PROXY
-DOMAIN-SUFFIX,paypal.com,PROXY
-DOMAIN-SUFFIX,paypal.me,PROXY
-DOMAIN-SUFFIX,paypalobjects.com,PROXY
+USER-AGENT,PayPal*,Portland
+DOMAIN-SUFFIX,paypal.com,Portland
+DOMAIN-SUFFIX,paypal.me,Portland
+DOMAIN-SUFFIX,paypalobjects.com,Portland
 # > Apple
-DOMAIN,testflight.apple.com,PROXY
-DOMAIN-SUFFIX,aaplimg.com,PROXY
-DOMAIN-SUFFIX,apple.co,PROXY
-DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
-DOMAIN-SUFFIX,appstore.com,PROXY
-DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,icloud.com,PROXY
-DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,me.com,PROXY
-DOMAIN-SUFFIX,mzstatic.com,PROXY
-# DOMAIN-KEYWORD,apple.com.akadns.net,PROXY
-# DOMAIN-KEYWORD,icloud.com.akadns.net,PROXY
+DOMAIN,testflight.apple.com,Portland
+DOMAIN-SUFFIX,aaplimg.com,Portland
+DOMAIN-SUFFIX,apple.co,Portland
+DOMAIN-SUFFIX,apple.com,Portland
+DOMAIN-SUFFIX,apple-cloudkit.com,Portland
+DOMAIN-SUFFIX,appstore.com,Portland
+DOMAIN-SUFFIX,cdn-apple.com,Portland
+DOMAIN-SUFFIX,icloud.com,Portland
+DOMAIN-SUFFIX,icloud-content.com,Portland
+DOMAIN-SUFFIX,me.com,Portland
+DOMAIN-SUFFIX,mzstatic.com,Portland
+# DOMAIN-KEYWORD,apple.com.akadns.net,Portland
+# DOMAIN-KEYWORD,icloud.com.akadns.net,Portland
