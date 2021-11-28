@@ -8,6 +8,11 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
 # > Akamai
 DOMAIN,a248.e.akamai.net,PROXY
 DOMAIN,a771.dscq.akamai.net,PROXY
+# > PayPal
+USER-AGENT,PayPal*,PROXY
+DOMAIN-SUFFIX,paypal.com,PROXY
+DOMAIN-SUFFIX,paypal.me,PROXY
+DOMAIN-SUFFIX,paypalobjects.com,PROXY
 # > Apple
 DOMAIN,testflight.apple.com,PROXY
 DOMAIN-SUFFIX,aaplimg.com,PROXY
