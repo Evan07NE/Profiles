@@ -17,3 +17,34 @@ DOMAIN-SUFFIX,me.com,Portland
 DOMAIN-SUFFIX,mzstatic.com,Portland
 # DOMAIN-KEYWORD,apple.com.akadns.net,Portland
 # DOMAIN-KEYWORD,icloud.com.akadns.net,Portland
+
+# (Region-Restricted Access Denied)
+# ---(Apple)---
+DOMAIN-SUFFIX,appsto.re,Portland
+DOMAIN,books.itunes.apple.com,Portland
+DOMAIN-SUFFIX,smoot.apple.com,Portland
+DOMAIN,beta.music.apple.com,Portland
+DOMAIN,lookup-api.apple.com,Portland
+# > Web Preview
+DOMAIN,apps.apple.com,Portland
+DOMAIN,itunes.apple.com,Portland
+DOMAIN,tv.apple.com,Portland
+# > Podcasts
+DOMAIN,amp-api.podcasts.apple.com,Portland
+DOMAIN,bookkeeper.itunes.apple.com,Portland
+# > News
+DOMAIN,gateway.icloud.com,Portland
+DOMAIN-SUFFIX,apple.news,Portland
+DOMAIN,news-assets.apple.com,Portland
+DOMAIN,news-client.apple.com,Portland
+DOMAIN,news-client-search.apple.com,Portland
+DOMAIN,news-edge.apple.com,Portland
+DOMAIN,news-events.apple.com,Portland
+DOMAIN,apple.comscoreresearch.com,Portland
+
+# (Network Jitter)
+# > Apple
+DOMAIN,appleid.apple.com,Portland
+DOMAIN,developer.apple.com,Portland
+DOMAIN,www.icloud.com,Portland
+DOMAIN,ocsp.apple.com,Portland
