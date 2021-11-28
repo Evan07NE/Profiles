@@ -8,25 +8,6 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
 # > Akamai
 DOMAIN,a248.e.akamai.net,PROXY
 DOMAIN,a771.dscq.akamai.net,PROXY
-# > PayPal
-USER-AGENT,PayPal*,PROXY
-DOMAIN-SUFFIX,paypal.com,PROXY
-DOMAIN-SUFFIX,paypal.me,PROXY
-DOMAIN-SUFFIX,paypalobjects.com,PROXY
-# > Apple
-DOMAIN,testflight.apple.com,PROXY
-DOMAIN-SUFFIX,aaplimg.com,PROXY
-DOMAIN-SUFFIX,apple.co,PROXY
-DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
-DOMAIN-SUFFIX,appstore.com,PROXY
-DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,icloud.com,PROXY
-DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,me.com,PROXY
-DOMAIN-SUFFIX,mzstatic.com,PROXY
-# DOMAIN-KEYWORD,apple.com.akadns.net,PROXY
-# DOMAIN-KEYWORD,icloud.com.akadns.net,PROXY
 # > Crypto
 DOMAIN-SUFFIX,aex.com,PROXY
 DOMAIN-SUFFIX,bibox.com,PROXY
@@ -572,28 +553,6 @@ DOMAIN-SUFFIX,weebly.com,PROXY
 DOMAIN-SUFFIX,twitter.jp,PROXY
 
 # (Region-Restricted Access Denied)
-# ---(Apple)---
-DOMAIN-SUFFIX,appsto.re,PROXY
-DOMAIN,books.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,smoot.apple.com,PROXY
-DOMAIN,beta.music.apple.com,PROXY
-DOMAIN,lookup-api.apple.com,PROXY
-# > Web Preview
-DOMAIN,apps.apple.com,PROXY
-DOMAIN,itunes.apple.com,PROXY
-DOMAIN,tv.apple.com,PROXY
-# > Podcasts
-DOMAIN,amp-api.podcasts.apple.com,PROXY
-DOMAIN,bookkeeper.itunes.apple.com,PROXY
-# > News
-DOMAIN,gateway.icloud.com,PROXY
-DOMAIN-SUFFIX,apple.news,PROXY
-DOMAIN,news-assets.apple.com,PROXY
-DOMAIN,news-client.apple.com,PROXY
-DOMAIN,news-client-search.apple.com,PROXY
-DOMAIN,news-edge.apple.com,PROXY
-DOMAIN,news-events.apple.com,PROXY
-DOMAIN,apple.comscoreresearch.com,PROXY
 # ------
 # Google
 DOMAIN-SUFFIX,go.dev,PROXY
@@ -612,11 +571,6 @@ DOMAIN-SUFFIX,sushi.com,PROXY
 # URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
-# > Apple
-DOMAIN,appleid.apple.com,PROXY
-DOMAIN,developer.apple.com,PROXY
-DOMAIN,www.icloud.com,PROXY
-DOMAIN,ocsp.apple.com,PROXY
 # > DigiCert
 DOMAIN,cacerts.digicert.com,PROXY
 DOMAIN,crl3.digicert.com,PROXY
